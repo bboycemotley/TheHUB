@@ -1,2 +1,0 @@
-# TheHUB
-Proper comment
